@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+.classpath
+.idea/
+.project
+.settings/
+alipay_demo.iml
+lint.xml
